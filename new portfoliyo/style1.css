@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+
+header{
+	background-color: black;
+	color: grey;
+	padding: 8px 0px 6px 40px;
+	height: 40px;
+}
+header h1{
+	display:inline;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float:left;
+	margin-top: 0px;
+	margin-right: 10px;
+}
+.fwimages{
+	background-image:url("images/download1.jpg");
+	width: 1355px;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+
+
